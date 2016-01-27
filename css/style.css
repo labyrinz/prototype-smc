@@ -323,8 +323,9 @@ section#animate-intro #description ol {
   margin-bottom: 0px;
   position: absolute;
   text-align: center;
-  color: #fff;
+  color: #111;
   text-transform: uppercase;
+  font-family: Arial, sans-serif;
 }
 
 .primera{
